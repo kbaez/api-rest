@@ -34,7 +34,7 @@ app.delete('/api/product/:productId', (req, res)=> {
 
 mongoose.connect('mongodb://localhost:27017/shop',(err, res) => {
 	if(err){
-		return console.log(`Error a. conectar a la base de datos: ${err}`)
+		return console.log(`Error al conectar a la base de datos: ${err}`)
 	}
 
 	console.log(`Conexion a la base de datos establecida...`)

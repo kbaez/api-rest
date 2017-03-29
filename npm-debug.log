@@ -9,7 +9,7 @@
 6 silly lifecycle api-rest@1.0.0~prestart: no script for prestart, continuing
 7 info lifecycle api-rest@1.0.0~start: api-rest@1.0.0
 8 verbose lifecycle api-rest@1.0.0~start: unsafe-perm in lifecycle true
-9 verbose lifecycle api-rest@1.0.0~start: PATH: C:\Program Files\nodejs\node_modules\npm\bin\node-gyp-bin;C:\Proyectos Node.js\api-rest\node_modules\.bin;C:\ProgramData\Oracle\Java\javapath;C:\Windows\system32;C:\Windows;C:\Windows\System32\Wbem;C:\Windows\System32\WindowsPowerShell\v1.0\;C:\Program Files (x86)\ATI Technologies\ATI.ACE\Core-Static;C:\Program Files (x86)\Java\jre1.8.0_121;C:\Program Files\nodejs\;C:\Users\Kari\AppData\Local\Microsoft\WindowsApps;C:\Users\Kari\AppData\Roaming\Dashlane\4.6.8.25848\bin\Firefox_Extension\{442718d9-475e-452a-b3e1-fb1ee16b8e9f}\components;C:\Users\Kari\AppData\Roaming\npm
+9 verbose lifecycle api-rest@1.0.0~start: PATH: C:\Program Files\nodejs\node_modules\npm\bin\node-gyp-bin;C:\Proyectos Node.js\api-rest\node_modules\.bin;C:\ProgramData\Oracle\Java\javapath;C:\Windows\system32;C:\Windows;C:\Windows\System32\Wbem;C:\Windows\System32\WindowsPowerShell\v1.0\;C:\Program Files (x86)\ATI Technologies\ATI.ACE\Core-Static;C:\Program Files (x86)\Java\jre1.8.0_121;C:\Program Files\nodejs\;C:\Program Files\Git\cmd;C:\Program Files (x86)\Skype\Phone\;C:\Users\Kari\AppData\Local\Microsoft\WindowsApps;C:\Users\Kari\AppData\Roaming\Dashlane\4.6.8.25848\bin\Firefox_Extension\{442718d9-475e-452a-b3e1-fb1ee16b8e9f}\components;C:\Users\Kari\AppData\Roaming\npm
 10 verbose lifecycle api-rest@1.0.0~start: CWD: C:\Proyectos Node.js\api-rest
 11 silly lifecycle api-rest@1.0.0~start: Args: [ '/d /s /c', 'nodemon index.js' ]
 12 silly lifecycle api-rest@1.0.0~start: Returned: code: 3221225786  signal: null
